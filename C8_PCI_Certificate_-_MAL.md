@@ -1,2 +1,33 @@
-> **Source:** [C8 PCI Certificate - MAL.pdf](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Poland/5. Other Documents/C8 PCI Certificate - MAL.pdf)
+---
+country: Poland
+document_name: C8 PCI Certificate - MAL
+source_file: C8 PCI Certificate - MAL.pdf
+extracted_date: 2026-04-30
+jurisdiction: Poland
+---
 
+# C8 PCI Certificate - MAL
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
+
+DocuSign Envelope ID: 8E65E25F-9DE2-49F6-8905-9966DCC22913
