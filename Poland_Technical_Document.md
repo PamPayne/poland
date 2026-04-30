@@ -1,2 +1,11 @@
-> **Source:** [Poland Technical Document.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Poland/5. Other Documents/Poland Technical Document.docx)
+---
+country: Poland
+document_name: Poland Technical Document
+source_file: Poland Technical Document.docx
+extracted_date: 2026-04-30
+jurisdiction: Poland
+---
 
+# Poland Technical Document
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
