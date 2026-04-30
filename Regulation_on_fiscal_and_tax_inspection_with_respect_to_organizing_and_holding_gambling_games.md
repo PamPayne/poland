@@ -1,2 +1,11 @@
-> **Source:** [Regulation on fiscal and tax inspection with respect to organizing and holding gambling games.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Poland/1. Legislation/Regulation on fiscal and tax inspection with respect to organizing and holding gambling games.docx)
+---
+country: Poland
+document_name: Regulation on fiscal and tax inspection with respect to organizing and holding gambling games
+source_file: Regulation on fiscal and tax inspection with respect to organizing and holding gambling games.docx
+extracted_date: 2026-04-30
+jurisdiction: Poland
+---
 
+# Regulation on fiscal and tax inspection with respect to organizing and holding gambling games
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
