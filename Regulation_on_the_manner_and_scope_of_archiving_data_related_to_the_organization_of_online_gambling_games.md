@@ -1,2 +1,11 @@
-> **Source:** [Regulation on the manner and scope of archiving data related to the organization of online gambling games.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Poland/1. Legislation/Regulation on the manner and scope of archiving data related to the organization of online gambling games.docx)
+---
+country: Poland
+document_name: Regulation on the manner and scope of archiving data related to the organization of online gambling games
+source_file: Regulation on the manner and scope of archiving data related to the organization of online gambling games.docx
+extracted_date: 2026-04-30
+jurisdiction: Poland
+---
 
+# Regulation on the manner and scope of archiving data related to the organization of online gambling games
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
