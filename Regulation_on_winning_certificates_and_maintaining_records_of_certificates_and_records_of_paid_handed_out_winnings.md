@@ -1,2 +1,11 @@
-> **Source:** [Regulation on winning certificates and maintaining records of certificates and records of paid handed out winnings.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Poland/1. Legislation/Regulation on winning certificates and maintaining records of certificates and records of paid handed out winnings.docx)
+---
+country: Poland
+document_name: Regulation on winning certificates and maintaining records of certificates and records of paid handed out winnings
+source_file: Regulation on winning certificates and maintaining records of certificates and records of paid handed out winnings.docx
+extracted_date: 2026-04-30
+jurisdiction: Poland
+---
 
+# Regulation on winning certificates and maintaining records of certificates and records of paid handed out winnings
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
